@@ -1,8 +1,7 @@
 {
-	"Changelist" : 2946394,
-	"BuildId" : "76ea3d03-d493-46d1-8e22-5e2c35474bb0",
-	"Modules" : 
+	"BuildId": "3709383",
+	"Modules": 
 	{
-		"PhantomController" : "UE4Editor-PhantomController.dll"
+		"PhantomController": "UE4Editor-PhantomController-2405.dll"
 	}
 }
